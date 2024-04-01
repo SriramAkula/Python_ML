@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./INT 354/01_"
+    ]
+}
