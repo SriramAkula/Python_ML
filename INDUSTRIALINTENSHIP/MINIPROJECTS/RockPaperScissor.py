@@ -1,3 +1,4 @@
+#PROJECT
 def check_guess(player1_choice, player2_choice):
     global score1, score2
 
